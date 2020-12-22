@@ -6,7 +6,7 @@
 
 int main(int argc, char **argv)
 {
-  printf("He1llo, world! \n");
+  printf("Hello, world! \n");
   print_my_name();
 
   return 0;
